@@ -1,9 +1,9 @@
 {
-"companyName": "AllinReality",
-"productName": "WebXRSample",
+"companyName": "DefaultCompany",
+"productName": "WebXR-Placement",
 "productVersion": "0.1",
 "dataUrl": "UpdatedBuild.data.unityweb",
-"wasmCodeUrl": "UpdatedBuild.wasm",
+"wasmCodeUrl": "UpdatedBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "UpdatedBuild.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
